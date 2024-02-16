@@ -26,7 +26,7 @@ export default function Test2() {
             <div className="home_body">
             <div className="home_grid1">
                     <div className="home_h1 ">
-                        <h1>Coding <span>Crafters</span></h1>
+                        <h1>Coding <span>Crafters 2.O</span></h1>
                     </div>
                     <div className="home_para">
                         <p>At Code Club, we shape future tech
